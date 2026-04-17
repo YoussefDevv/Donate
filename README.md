@@ -21,9 +21,6 @@ o	Poster
 6.	Final Presentation
 ________________________________________
 Roles & Responsibilities
-•	________________________________________
-•	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
-
 ________________________________________
 
 
@@ -34,11 +31,10 @@ ________________________________________
 
 
 Project Files
-You can find the full project files here:
+You can find the full project files here:https://www.figma.com/design/9ZYjfWf1L74KoXKjuXEGjf/Donate-App?node-id=82-413&t=qIH0L19qxfc2h4KN-1
 --------
 ________________________________________
 License
-This project is licensed under the 
+This project is licensed under the Youssef Wael
 ________________________________________
-•	KPIs (Key Performance Indicators) – Metrics for project success (e.g., response time, system uptime, user adoption rate).
 
