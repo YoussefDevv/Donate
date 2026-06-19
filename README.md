@@ -12,7 +12,7 @@ Mohamed Osman Abdelhamed
  ________________________________________
 Youssef Wael Ramadan
  ________________________________________
-Zeyad Mohamed Abdelaal)
+Zeyad Mohamed Abdelaal
 ________________________________________
 Work Plan
 1.	Research & Analysis
@@ -30,7 +30,7 @@ ________________________________________
 
 
 Instructor 
-*Hazem Abdullah
+Hazem Abdullah
 
 ________________________________________
 
