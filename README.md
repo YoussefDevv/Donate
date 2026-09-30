@@ -40,6 +40,6 @@ You can find the full project files here:https://www.figma.com/design/9ZYjfWf1L7
 --------
 ________________________________________
 License
-This project is licensed under the Youssef Wael
+This project is licensed under the Team Members
 ________________________________________
 
